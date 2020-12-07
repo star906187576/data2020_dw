@@ -37,6 +37,7 @@ public class LogUploader {
             out.close();
             int code = conn.getResponseCode();
             System.out.println(code);
+            System.out.println("mygithub");
         } catch (Exception e) {
             e.printStackTrace();
         }
