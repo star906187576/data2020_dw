@@ -1,0 +1,4 @@
+# Project exclude paths
+/dw-common/target/
+/dw-mocker/target/
+/dw_interceptor/target/
